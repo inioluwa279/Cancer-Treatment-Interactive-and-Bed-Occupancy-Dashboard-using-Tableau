@@ -1,4 +1,5 @@
-#CANCER TREATMENT INTERACTIVE & BED OCCUPANCY DASHBOARD USING TABLEAU
+#
+CANCER TREATMENT INTERACTIVE & BED OCCUPANCY DASHBOARD USING TABLEAU
 ### 
 The pathway to cancer diagnosis and staging, leading to a decision-to-treat date, can be complex for cancer patients because it involves several medical investigations and decision-making processes. The Scottish Government, through NHS Scotland, currently has two Cancer Waiting Times (CWT) standards – The 31-day and 62-day standard targets.
 To ensure ‘First Treatment’ occurs within the CWT across all NHS boards, there is currently a 5% tolerance for CWT in Scotland. This report investigates the impact of the COVID-19 pandemic on NHS bed availability and the number of eligible cancer referrals treated within the 62-day standard wait time. The Time series analysis revealed that only two NHS boards (NHS Borders and NHS Shetlands) met the 62-day standard, while the percentage of cancer referrals treated by other HBs fell to an average of 83% during and after the COVID-19 pandemic.  
